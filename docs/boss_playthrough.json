@@ -1,0 +1,26 @@
+[
+	{
+		"boss_hp": 0.0,
+		"paid_attacks": 13,
+		"player_hp": 100.0,
+		"seconds": 73.6,
+		"seed": 7,
+		"victory": true
+	},
+	{
+		"boss_hp": 0.0,
+		"paid_attacks": 13,
+		"player_hp": 100.0,
+		"seconds": 66.0833333333333,
+		"seed": 42,
+		"victory": true
+	},
+	{
+		"boss_hp": 0.0,
+		"paid_attacks": 13,
+		"player_hp": 68.0,
+		"seconds": 66.25,
+		"seed": 123,
+		"victory": true
+	}
+]

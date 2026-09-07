@@ -1,0 +1,10 @@
+.godot/
+.gdskills/
+*.blend1
+assets/source/*.blend
+docs/*.log
+docs/*preview.png
+test_output/
+__pycache__/
+outputs/
+docs/workbook_source.json

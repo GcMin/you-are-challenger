@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3]
+
+[ext_resource type="Script" path="res://player/player.gd" id="1"]
+[ext_resource type="Resource" path="res://player/default_tuning.tres" id="2"]
+[sub_resource type="CylinderShape3D" id="Body"]
+radius = 0.3
+height = 1.7
+
+[node name="Player" type="CharacterBody3D"]
+collision_layer = 2
+collision_mask = 3
+script = ExtResource("1")
+tuning = ExtResource("2")
+
+[node name="Body" type="CollisionShape3D" parent="."]
+position = Vector3(0, 0.85, 0)
+shape = SubResource("Body")

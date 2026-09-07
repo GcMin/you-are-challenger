@@ -1,0 +1,8 @@
+# Neutral fallback for the supplied OBJ, whose original MTL was not supplied.
+# The playable derived GLB has its own materials.
+newmtl None
+Ka 0.2 0.2 0.2
+Kd 0.65 0.68 0.68
+Ks 0.0 0.0 0.0
+d 1.0
+illum 1
