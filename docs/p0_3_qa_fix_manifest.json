@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-07",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "head": "d2c1d440b889cd33fd3622b50b2a20b13232fa48",
+  "modified_uncommitted": true,
+  "assertion_passes": 236,
+  "files": [
+    {
+      "path": "project.godot",
+      "sha256": "b9a7dac8656831289e55f757dece161c1ee5572d53e5d29995f43b3c4f78eae3"
+    },
+    {
+      "path": "tests/capture_scene.gd.uid",
+      "sha256": "11ca3c5bbe5beb3f09cfc1399217ff4fa1a4dccd63ced0b4207f5a7b68040309"
+    },
+    {
+      "path": "tests/capture_scene.gd",
+      "sha256": "f25d8fb41b052e531cb82828b060615f58f042ce8316f29451c15b118d6599e5"
+    },
+    {
+      "path": "tests/capture_run.gd",
+      "sha256": "37beb1313eab176095802901b453344662b5ae90e8820fd449e6134daad5552a"
+    },
+    {
+      "path": "tests/capture_boss.gd.uid",
+      "sha256": "55bfd1acdeb98435f112536d7231005326f98d93df356dcef35f23add7ed456b"
+    },
+    {
+      "path": "tests/capture_boss.gd",
+      "sha256": "41bf37cd8575cd69ea902a932c0b0d19515592890b3074f4d2d1974e5e3436bb"
+    },
+    {
+      "path": "ui/training_theme.tres",
+      "sha256": "34ebb2f037bad626e706d728ef3096f854d9c663966c8eecaed0a9ca4ff7b495"
+    },
+    {
+      "path": "ui/training_hud.gd.uid",
+      "sha256": "1f8fe51eb72b75373170f1df393bfe7fa0ce00f5c88d20129d53405339514daf"
+    },
+    {
+      "path": "ui/training_hud.gd",
+      "sha256": "2cf635140487da4a5f6d21275cfc5d70e98fce3b94aa253b8d7671a7651a77f0"
+    },
+    {
+      "path": "ui/run_hud.gd.uid",
+      "sha256": "46024b5756e4dcc4af5a6a07d24a7f367bf6f8a2e30c84a8e6a5c5014b9b0b7a"
+    },
+    {
+      "path": "ui/run_hud.gd",
+      "sha256": "925bc416a257993d853c2f843dd680272018e942fdfe65b45ae0ab5114fadc49"
+    },
+    {
+      "path": "training/training_target.gd.uid",
+      "sha256": "0ada454402592b78bab8085ba43404eaf9c65ab68520f407205cb8d67811a852"
+    },
+    {
+      "path": "training/training_target.gd",
+      "sha256": "bfb616e67ae2528cc659f35b093c8c0841dc29b0152a747ef1d34a8f1b54758f"
+    },
+    {
+      "path": "training/training_ground.tscn",
+      "sha256": "17b2c1024235d3473802eed1c1854bcb04bf3c50149e3dd77ec477220fcf533e"
+    },
+    {
+      "path": "training/training_ground.gd.uid",
+      "sha256": "5f4f9ca05edb6cf91a6e66691774e8de567ec530ebc609a743b4f5a149be84f2"
+    },
+    {
+      "path": "training/training_ground.gd",
+      "sha256": "157d06e4953100e47e0381213fb0edf21cb085cc0a6607433325e6a5a90c65b9"
+    },
+    {
+      "path": "tests/test_animation_contract.gd",
+      "sha256": "683e4864a837101e8d647ff1e1ac1befba14e5c07ccce9e78aaee526ce31aad9"
+    },
+    {
+      "path": "tests/test_animation_contract.gd.uid",
+      "sha256": "9391959d73e06b922201343a0538c008e4bb600cc662bee3074038d1227b07ec"
+    },
+    {
+      "path": "tests/test_boss_playthrough.gd",
+      "sha256": "fd969a7181ed29952fb09716b7c279ef7ea3db3849c1e9ad69a20f27a7a859ff"
+    },
+    {
+      "path": "tests/test_boss_playthrough.gd.uid",
+      "sha256": "66da70b1a3e1861d8e142abf634c76e84f81b7a2537d42310a6651aae77d8636"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d9cbd688097a7bcf2e58fdf63b0620b07c37345e3017232af7c9efaf75000c17"
+    },
+    {
+      "path": "assets/weapons/greatsword.glb.import",
+      "sha256": "6b10aad57cb7af10e6c857cf2685e1c3ce808f9d36dede694743a2880191c162"
+    },
+    {
+      "path": "assets/weapons/greatsword.glb",
+      "sha256": "b1149dae64fa5141a3a5710bdcb0e14450301341ecf7b3ee5c187599c70c1474"
+    },
+    {
+      "path": "assets/chest/README.md",
+      "sha256": "e00333155dedeaf5e09048fda22af24b72283798b257ef635f5ced8d0d77d329"
+    },
+    {
+      "path": "assets/chest/ChestV1.fbx",
+      "sha256": "e02a28ef3af8d226632f2e7dcd28c854f1ec234f4ef67d3ba756d50b43cbb01c"
+    },
+    {
+      "path": "assets/chest/.gdignore",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "assets/characters/challenger.glb.import",
+      "sha256": "76583445aecac0f764eb00bd6e371cec66ee38995cd6b052d71d190be2dbb16e"
+    },
+    {
+      "path": "training/flat_arena.gd.uid",
+      "sha256": "3f7c3b5373e6b1e33eaca4484ba58c5fafadf3847a08b8c4a186cc7e410e869b"
+    },
+    {
+      "path": "assets/characters/challenger.glb",
+      "sha256": "f3d2d23b0fa476c0f30542bd796f218b6901576e44aae01bf5f09c66654ce92c"
+    },
+    {
+      "path": "tests/test_p0_2.gd.uid",
+      "sha256": "04a3fda4781a0510aca63a047c0efc3d6343591e026d0fb79ca24edb80c476d4"
+    },
+    {
+      "path": "tests/test_p0_2.gd",
+      "sha256": "ef3c9b67ec92a55a7bc42570fc2da161880509ebde946e65601a870d74a39eff"
+    },
+    {
+      "path": "tests/test_p0_1.gd.uid",
+      "sha256": "58890d86d76bfa0c9731e002c36b6b911b7ea0e1a1ee16e09d5267f5658e937f"
+    },
+    {
+      "path": "tests/test_p0_1.gd",
+      "sha256": "f655d9d2dae502c0305e84855e7b27913073729f946ff5df073d33958bba4bd7"
+    },
+    {
+      "path": "tests/test_grounding.gd.uid",
+      "sha256": "16f1161afdecb3f7bb4b5d1c5525865710c9acb583cb78295f6df7fb1954c895"
+    },
+    {
+      "path": "tests/test_grounding.gd",
+      "sha256": "137a9b4e7027f6c149d15b075260f86b802da56530fe814aa4fd27aa7d34121f"
+    },
+    {
+      "path": "tests/test_default_entry.gd",
+      "sha256": "cf0c061b5f6ca4538021307a943a3d35dd75b3608142e47bdb606756f6b03291"
+    },
+    {
+      "path": "tests/test_p0_3.gd",
+      "sha256": "e9fc7165b4dfc60a787e6ca65adcc349c741e52e4902ed907e9130acac4768e0"
+    },
+    {
+      "path": "docs/p0_3_qa_fixes.md",
+      "sha256": "6af21e2767fa88b44f0246afa279f37ebe6b669557be88edd6903b29dbf7fc98"
+    },
+    {
+      "path": "training/flat_arena.gd",
+      "sha256": "c17c50dae2262deccfca5eb8b383c4b1a42907b40c85677198be41a94623b702"
+    },
+    {
+      "path": "training/feedback_audio.gd",
+      "sha256": "ac5adea8f2ca50da3f062094c3ec037bcde98c4600bf7201071db765d19ba3ab"
+    },
+    {
+      "path": "boss/boss.gd.uid",
+      "sha256": "05b22db38881dbbc36d4d76d67582491aa59824203639c79410dd21c55417414"
+    },
+    {
+      "path": "boss/boss.gd",
+      "sha256": "bc6eaaec30a749774421cceb646e610eec5c6d14b795a542a77e5d3888278168"
+    },
+    {
+      "path": "boss/boss_tuning.gd.uid",
+      "sha256": "d00555ed45ebd197e535e3c346dac6afefa5e9047222f8ad54054c0362a9b3f2"
+    },
+    {
+      "path": "boss/boss_tuning.gd",
+      "sha256": "1eafc96e3f06ca0f4389dba8c259b362f94678ed85d291678c64659781eee0ce"
+    },
+    {
+      "path": "boss/boss_arena.tscn",
+      "sha256": "8a0ffe9ce623eec022758fe405b97fd63ed5acee20a6b02e95fe4a7427ff3f64"
+    },
+    {
+      "path": "boss/boss_arena.gd.uid",
+      "sha256": "52ed5e9a109dbe7042e1988bf259760ec88c29983e750e3fee2df35e3a11cd5b"
+    },
+    {
+      "path": "boss/boss_arena.gd",
+      "sha256": "b380fedea79f3ba243468a5bb4234d8f56c1d87a1dfe3e36f6b7a95f2923ac00"
+    },
+    {
+      "path": "player/player.tscn",
+      "sha256": "c33de9281e8842785d06dfab4cb9a3cbc83aa2951cca65adca8709bc4b741d10"
+    },
+    {
+      "path": "player/player.gd.uid",
+      "sha256": "4f5b7bdaa1c7126b089b408f0da6eb7167b2cffd5cdf09de5f9fa71fbe0f4a83"
+    },
+    {
+      "path": "player/player.gd",
+      "sha256": "0cca20b462ee79912754c89c4256bce25cc3092b0a2c174f11014b597e7418a0"
+    },
+    {
+      "path": "player/default_tuning.tres",
+      "sha256": "db73bbea99e3327b0eb0f04ff78e42089a966c29b78f1ef8492a9feb592f84bb"
+    },
+    {
+      "path": "player/combat_tuning.gd.uid",
+      "sha256": "c044c58dd8a09f3df351595a875fa056a5713bce62b6f303d41e0d62bd43f2a4"
+    },
+    {
+      "path": "player/combat_tuning.gd",
+      "sha256": "d05de4a7951e3ce9f856ce6149b127171651dbc0578bd2870eebb81ea081b9f8"
+    },
+    {
+      "path": "player/actor_visual.gd.uid",
+      "sha256": "0253062fa45767ce3770d646f0febb1b99cae8df39a18d39b38190a603ac22d4"
+    },
+    {
+      "path": "player/actor_visual.gd",
+      "sha256": "583b73cf1419263a44e6c5fa0e1da85e068692fe0e9d455bab8609bc6b34e296"
+    },
+    {
+      "path": "boss/default_tuning.tres",
+      "sha256": "a2763e5d4d3d1fe04ef596d94361b2f7a84f5922bee358c527624172f6d2f8e1"
+    },
+    {
+      "path": "combat/damage_data.gd",
+      "sha256": "74f0d0039a0cd1228a783084d7de3794bbdfc28688f9fdc032d152392ca7b245"
+    },
+    {
+      "path": "combat/damage_data.gd.uid",
+      "sha256": "3618f124e58149c53bad405832d9ec005b6ef65bf5f454be3876d9dbf29851a5"
+    },
+    {
+      "path": "combat/hurtbox.gd",
+      "sha256": "56afa7eb16be81ceac83a7dabb592d06471407520c89bdd75c4c28b14d5ad4ec"
+    },
+    {
+      "path": "run/world_pickup.gd.uid",
+      "sha256": "e748540b1d1668ecbac83f78ebc57c781a2a2eb47e69ffa08726c90a0b015b90"
+    },
+    {
+      "path": "run/world_pickup.gd",
+      "sha256": "7429585483dfbcd612c68b597cc17d709cb0e2c905add0cd08f40da5be5c12f9"
+    },
+    {
+      "path": "run/run_session.gd.uid",
+      "sha256": "624386f74bd277deca7a04307d6823ce96b923238a2457c52c65f22c215730eb"
+    },
+    {
+      "path": "run/run_session.gd",
+      "sha256": "3da048eba50d45fd4625dda0c65b1a99dba7b66ad8c035e35141b91454cc4e2a"
+    },
+    {
+      "path": "run/run_item.gd.uid",
+      "sha256": "ac037bc671c4ada9c3b32559edeefc7bff1abd80a941f43fd65dc5761c38255b"
+    },
+    {
+      "path": "run/run_item.gd",
+      "sha256": "314b1fd2dd4211d6334b3fb272abb75a198533b44d1602802639a57605454e5d"
+    },
+    {
+      "path": "run/run_inventory.gd.uid",
+      "sha256": "5af16d007432fb037eca53d498a866d2392ca1a73ab51d6e58185fbb3c969828"
+    },
+    {
+      "path": "training/feedback_audio.gd.uid",
+      "sha256": "77856aff261de5e1cf95334e04c4c53527c2fb5c5b9252a2690a877228376ef2"
+    },
+    {
+      "path": "run/run_inventory.gd",
+      "sha256": "480cc9e60e5c155588a143d88b3c12d0afbf7609d676b15ad46571e6b4b09121"
+    },
+    {
+      "path": "run/run_arena.gd.uid",
+      "sha256": "b6bee4dde67c8e535297099cf95a560150e2319ccb241285dcb4e92fe73888ac"
+    },
+    {
+      "path": "run/run_arena.gd",
+      "sha256": "bc26194be1634cef6a624e7cf2646d7d83a13031078b12bc6dd9b934a3f5643d"
+    },
+    {
+      "path": "combat/vitals.gd.uid",
+      "sha256": "65e895e1f88cdead4fb425cb37d8820e736257c84dfa6931d153e04ee50766c5"
+    },
+    {
+      "path": "combat/vitals.gd",
+      "sha256": "1baa8c8ff9c74cad1292a1718071e95fe8d674aaef5403140b6821c5ef307fa8"
+    },
+    {
+      "path": "combat/melee_query.gd.uid",
+      "sha256": "d5cc29b783c8927262dd3d22b511721860dc5c370cf5de91fe8b75cbb85c8a13"
+    },
+    {
+      "path": "combat/melee_query.gd",
+      "sha256": "989a1aa1504b6cb8ee3e5942b8ee50b32607c3f1af0415c12028214499a708b8"
+    },
+    {
+      "path": "combat/hurtbox.gd.uid",
+      "sha256": "013437ba8ab66b6c2fc6d0e1fc6d561c5a43599524bac643ad223cc0feea300f"
+    },
+    {
+      "path": "run/run_arena.tscn",
+      "sha256": "60d689cbf94bae1ec10e3275f6cee02cc5253cb3cddc261c6cfa1b13b06d69f5"
+    },
+    {
+      "path": "you_are_challenger_P0_design.xlsx",
+      "sha256": "9049e21bc206f2c716f0ea7676f5eafd896150f778b21f094c9668c0dc0676af"
+    }
+  ]
+}

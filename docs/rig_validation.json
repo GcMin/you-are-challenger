@@ -1,0 +1,23 @@
+{
+  "weighted_vertices": {
+    "upperarm_l": 38,
+    "lowerarm_l": 38,
+    "hand_l": 16,
+    "upperarm_r": 38,
+    "lowerarm_r": 38,
+    "hand_r": 16
+  },
+  "max_grip_error_m": 2.385349660155493e-07,
+  "clips": [
+    "idle",
+    "run",
+    "hit",
+    "death",
+    "light",
+    "heavy",
+    "roll",
+    "recover",
+    "boss_slam",
+    "boss_dash"
+  ]
+}
